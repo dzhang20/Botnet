@@ -1,2 +1,2 @@
-# pybotnet
-A botnet framework written in Python. For HackIllinois 2019.
+# Python Botnet
+A botnet framework written For HackIllinois 2019.
